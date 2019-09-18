@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[顾随]]></title>
+    <url>%2F2019%2F09%2F18%2F%E9%A1%BE%E9%9A%8F%2F</url>
+    <content type="text"><![CDATA[生查子 [现代] 顾随身如入定僧，心似随风草。心自甚时愁，身比年时老。空悲眼界高，敢怨人间小。越不爱人间，越觉人间好。 顾随（1897—1960），本名顾宝随，字羡季，笔名苦水，别号驼庵，河北清河县人。中国韵文、散文作家，理论批评家，美学鉴赏家，讲授艺术家，禅学家，书法家，文化学术研著专家。顾随的学生、红学泰斗周汝昌曾这样评价他：“一位正直的诗人，而同时又是一位深邃的学者，一位极出色的大师级的哲人巨匠。”]]></content>
+      <tags>
+        <tag>诗词</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F09%2F18%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
