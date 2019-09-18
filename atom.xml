@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://guojiego.github.io/"/>
   <updated>2019-09-18T08:51:58.829Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://guojiego.github.io/</id>
   
   <author>
     <name>穆白</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>顾随</title>
-    <link href="http://yoursite.com/2019/09/18/%E9%A1%BE%E9%9A%8F/"/>
-    <id>http://yoursite.com/2019/09/18/顾随/</id>
+    <link href="https://guojiego.github.io/2019/09/18/%E9%A1%BE%E9%9A%8F/"/>
+    <id>https://guojiego.github.io/2019/09/18/顾随/</id>
     <published>2019-09-18T08:48:54.000Z</published>
     <updated>2019-09-18T08:51:58.829Z</updated>
     
@@ -38,14 +38,14 @@
     
     
     
-      <category term="诗词" scheme="http://yoursite.com/tags/%E8%AF%97%E8%AF%8D/"/>
+      <category term="诗词" scheme="https://guojiego.github.io/tags/%E8%AF%97%E8%AF%8D/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/09/18/hello-world/"/>
-    <id>http://yoursite.com/2019/09/18/hello-world/</id>
+    <link href="https://guojiego.github.io/2019/09/18/hello-world/"/>
+    <id>https://guojiego.github.io/2019/09/18/hello-world/</id>
     <published>2019-09-18T07:28:07.966Z</published>
     <updated>2019-09-18T07:28:07.967Z</updated>
     
